@@ -15,7 +15,7 @@
 
   <name>gitmodules-model</name>
   <url>http://maven.apache.org</url>
-
+  
   <modules>
     <module>gitmodules-data</module>
   </modules>
