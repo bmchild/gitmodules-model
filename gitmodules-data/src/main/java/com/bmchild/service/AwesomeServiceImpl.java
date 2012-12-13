@@ -11,5 +11,9 @@ public class AwesomeServiceImpl implements AwesomeService {
 	public String getAnAwesomeString(String anotherString) {
 		return "AWESOME " + anotherString;
 	}
+	
+	private void printALine() {
+		System.out.println("Something has been printed");
+	}
 
 }
