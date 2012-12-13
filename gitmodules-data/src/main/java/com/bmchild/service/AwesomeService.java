@@ -3,7 +3,7 @@ package com.bmchild.service;
 public interface AwesomeService {
 
 	/**
-	 * An awesome comment
+	 * An awesome comment blah blah blah
 	 * @param anotherString
 	 * @return
 	 */

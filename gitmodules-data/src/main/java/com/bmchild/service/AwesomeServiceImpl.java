@@ -9,7 +9,7 @@ public class AwesomeServiceImpl implements AwesomeService {
 	 * @see com.bmchild.service.AwesomeService#getAnAwesomeString(java.lang.String)
 	 */
 	public String getAnAwesomeString(String anotherString) {
-		return "AWESOME " + anotherString;
+		return "AWESOME inside a sub module" + anotherString;
 	}
 
 }
