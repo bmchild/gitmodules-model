@@ -14,7 +14,7 @@ public class AwesomeServiceImpl implements AwesomeService {
 	}
 	
 	private void printALine() {
-		System.out.println("Something has been printed");
+		System.out.println("I want somethign else printed");
 	}
 
 }
