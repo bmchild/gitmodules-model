@@ -13,6 +13,7 @@ public class AwesomeServiceImpl implements AwesomeService {
 		return "AWESOME inside a sub module" + anotherString;
 	}
 	
+	// Little Comment
 	private void printALine() {
 		System.out.println("A conflict will occur!");
 	}
